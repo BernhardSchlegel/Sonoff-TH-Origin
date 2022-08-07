@@ -6,9 +6,9 @@ Here is an overview which features are supported / reverse engineered:
 
 | Feature            | TH Origin | POW Origin | POW Elite |
 |--------------------|-----------|------------|-----------|
-| 3x LED             | :check:   | :check:    | :check:   |
-| Relay              | :check:   | :check:    | :check:   |
-| Temperature sensor | :check:   | n.a.       | :check:   |
+| 3x LED             | :heavy_check_mark:   | :heavy_check_mark:    | :heavy_check_mark:   |
+| Relay              | :heavy_check_mark:   | :heavy_check_mark:    | :heavy_check_mark:   |
+| Temperature sensor | :heavy_check_mark:   | n.a.       | :heavy_check_mark:   |
 | Power-Meter        | n.a.      | ?          | ?         |
 | Display            | n.a.      | n.a.       | ?         |
 |                    |           |            |           |

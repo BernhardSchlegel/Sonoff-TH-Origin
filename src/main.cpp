@@ -6,6 +6,9 @@
 
 #define GPIO_OUT_RELAY 19
 #define GPIO_OUT_RELAY_2 22
+#define GPIO_OUT_GREEN_AUTO 13
+#define GPIO_OUT_BLUE_WIFI 15
+#define GPIO_OUT_RED_ONOFF 16
 #define GPIO_IN_BUTTON 0
 #define GPIO_ONE_WIRE_BUS 25 // tried 1, 2, 3, 4, 5, 14, 17, 18, 21, 23, 25, 26, 27, 32, 33
 #define GPIO_OUT_POWER_RJ11 27 // tried 1, 2, 3, 4, 5, 14, 17, 18, 21, 23, 25, 26, 27, 32, 33
